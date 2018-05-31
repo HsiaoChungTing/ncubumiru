@@ -1,7 +1,7 @@
 # 中央不迷路
 ## Line Bot 作業 106525013
  - linebot QR code<br>
-![](https://lh4.googleusercontent.com/OhPoSHmS99vPZPlvxGmBwgKgoTutF5vHVhoKg_TfDKXtE098Q_Hth2wvh-9rGJf_qsyvlaBx2VIWoA=w2878-h1724)
+![](https://i.imgur.com/aGpUWsM.png)
 
 <br>
  - 在google找不到校內機關的地點嗎？<br> 
@@ -10,11 +10,14 @@
  
  
  ## 使用方法
- 
+範例一<br>
 在中央不迷路中輸入想去地點，如“保健室” <br>
 則會得到衛生保健組之位置和地點描述 <br>
 <br>
 也可以在中央不迷路中輸入你想做的事情，如“擦藥”<br> 
 也會得到衛生保健組之位置和地點描述 <br>
+<br>
+範例二<br>
+新生找不到小木屋鬆餅在哪裡的話搜尋"鬆餅"就可以得到其位置了!<br>
 
  ### 注：部分地點和事情可能未被加入資料庫,請留言告訴我,持續更新中
