@@ -21,6 +21,7 @@
 <br>
 範例二<br>
 新生找不到小木屋鬆餅在哪裡的話搜尋"鬆餅"就可以得到其位置了!<br>
+<img src="https://i.imgur.com/6o9VVoq.jpg" width="600" hegiht="100" align=center />
 <br>
 範例三<br>
 輸入“世界奇觀” <br>
