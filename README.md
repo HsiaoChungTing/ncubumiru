@@ -25,5 +25,5 @@
 範例三<br>
 輸入“世界奇觀” <br>
 就可以知道中央哪棟建築被稱為世界奇觀喔喔喔!<br>
-![](https://imgur.com/a/KLJFFmf)
+![](https://imgur.com/a/KLJFFmf.jpg)
  ### 注：部分地點和事情可能未被加入資料庫,請留言告訴我,持續更新中
